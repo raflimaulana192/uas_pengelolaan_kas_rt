@@ -1,5 +1,11 @@
 # uas_pengelolaan_kas_rt
 
+Nama : Rafli maulana aziz
+
+Nim : 311910639
+
+Kelas : TI19C1
+
 1.	tampilan struktur database iuran 
 
  ![image](https://user-images.githubusercontent.com/56473376/126054624-95d9f59d-06c7-43cb-bf11-687130dd58ec.png)
